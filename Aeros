@@ -2,6 +2,8 @@
 <p>Auf dieser Seite werden ihnen informationen zu der Verkehrsdichte und der Lufschadstoffe in Barmbek gegeben. 
 Grundlage dieser Daten sind die Luftmessstation in der Habichtstraße und die Daten vom Amt für Verkehr und Straßenwesen.</p>
 
+<h2>Verkehrsdichte Barmbek</h2>
+
 <h2>Warum ausgrechnet Barmbek?</h2>
 <p>Die Lufmessstation in Barmbek gehört zu den 4 Verkehrsbezogenen Messstationen. Nach dem Luftqualitätsindex, der Schulnoten vergibt, ist Barmbek als schlechtester Vertreter mit lediglich "ausreichend" ausgezeichnet. Um diese schlechte mit genaueren Informationen zu belegen haben wir die Daten für Laien verständlich aufbereitet.</p>
 <iframe id="datawrapper-chart-sCaNX" src="//datawrapper.dwcdn.net/sCaNX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="374"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["sCaNX"]={},window.datawrapper["sCaNX"].embedDeltas={"100":1089,"200":653,"300":537,"400":442,"500":425,"700":374,"800":374,"900":357,"1000":357},window.datawrapper["sCaNX"].iframe=document.getElementById("datawrapper-chart-sCaNX"),window.datawrapper["sCaNX"].iframe.style.height=window.datawrapper["sCaNX"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["sCaNX"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("sCaNX"==b)window.datawrapper["sCaNX"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
